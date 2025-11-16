@@ -94,7 +94,8 @@ HAL_GPIO_WritePin(GPIOA, GPIO_PIN_5, GPIO_PIN_RESET);
 
 **OUTPUT:**
 
-<img width="692" height="432" alt="image" src="https://github.com/user-attachments/assets/edb799f4-ce52-4bc4-9989-b8735f363b6c" />
+<img width="692" height="432" alt="511746311-3e6f7f87-af2d-46af-8f8c-b950d99efeb9" src="https://github.com/user-attachments/assets/ea2ab9c5-73f0-4df9-a99b-b2ba6c427d3f" />
+
 
 CASE 1 : LED ON
 
